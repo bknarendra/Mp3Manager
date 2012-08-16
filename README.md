@@ -13,6 +13,9 @@ Suppose I want to store my files in D:\music directory and use album name for ca
 run D:\music 1
 
 
+You can read more about how I got idea to build it here
+http://narenonit.blogspot.in/2012/08/so-damn-true-necessity-mother-of.html
+
 
 Narendra Rajput
 My email : bknarendra2008@gmail.com
